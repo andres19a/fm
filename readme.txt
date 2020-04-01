@@ -6,8 +6,8 @@ Readme for PHPFM:
  ----------------------
  http://phpfm.zalon.dk/
 
-   Copyright (C) 2002 Morten Bojsen-Hansen
-   Email: raz0@worldonline.dk
+   Copyright (C) 2012 Andres Arroyo
+   Email: aarroyo@gbm.net
 
    PHPFM is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
@@ -38,7 +38,7 @@ Readme for PHPFM:
        Check docs/license.txt for more information.
 
    Download:
-      The newest version of PHPFM is always availible from http://phpfm.zalon.dk/
+      The newest version of PHPFM is always availible  
 
    Requirements:
        Check docs/requirements.txt for more information.
@@ -61,5 +61,3 @@ Readme for PHPFM:
 
    Hope you will enjoy using PHPFM as
    much as I enjoyed creating it!
-
-   Morten Bojsen-Hansen
